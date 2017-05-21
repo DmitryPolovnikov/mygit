@@ -1,6 +1,5 @@
 print("Hello world!")
-<<<<<<< Updated upstream
-echo("Hello!")
+print("Hello world!");
 pf('spoka');
 echo("Hello!");
 pf('poka')
