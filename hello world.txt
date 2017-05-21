@@ -1,3 +1,9 @@
 print("Hello world!")
+<<<<<<< Updated upstream
 echo("Hello!")
+pf('spoka');
+echo("Hello!");
+pf('poka')
+éóéö
+ààà
 pf('spoka')
